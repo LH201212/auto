@@ -1,0 +1,17 @@
+txt = """
+\U0001F4C5 date
+\U0001F1E8\U0001F1F3 地区：region 
+\U00002601 天气：weather
+\U0001F321 气温：min_temp-max_temp
+\U0001F30F 空气质量：category 
+\U0001F305 日出时间：sunrise 
+\U0001F307 日落时间：sunset
+\U0001F382 birthday1 
+\U0001F382 birthday2
+\U0000231B 距离跨年还有countdown1天
+\U0000231B 距离除夕还有countdown2天
+\U0000231B 今日运势：horoscope1
+\U0001F9A0 yq
+\U0001F9A0 proverb
+\U0001F9A0 chp
+"""
